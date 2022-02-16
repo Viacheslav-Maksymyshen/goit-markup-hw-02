@@ -26,7 +26,8 @@ body {
   background-color: var(--second-background-color);
 }
 
-.portfolio-button:hover {
+.portfolio-button:hover,
+.portfolio-button:focus {
   color: var(--white-color);
   background-color: var(--blue-color);
   /* position: absolute; 
